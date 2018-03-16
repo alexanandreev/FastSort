@@ -10,6 +10,7 @@ namespace FastSort
     {
         static void Main(string[] args)
         {
+            1234
         }
     }
 }
